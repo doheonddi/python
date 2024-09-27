@@ -1,0 +1,6 @@
+a=input("1번 이름 :")
+b=input("2번 이름 :")
+c=input("3번 이름 :")
+d=input("4번 이름 :")
+e=input("5번 이름 :")
+print(f"결과 : {a}/{b}/{c}/{d}/{e}")
